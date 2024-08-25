@@ -8,18 +8,20 @@ This repository contains my personal Neovim configuration, designed for an enhan
 .
 ├── ascii_art2.txt
 ├── ascii_art.txt
+├── assets
+│   └── img-prev.png
 ├── init.lua
-├── lua/
-│   ├── completion.lua
-│   ├── custom_dashboard.lua
-│   ├── lsp-config.lua
-│   ├── nvim-tree-config.lua
-│   ├── plugins.lua
-│   ├── statusline-config.lua
-│   ├── telescope-config.lua
-│   └── treesitter-config.lua
-└── plugin/
-    └── packer_compiled.lua
+├── lua
+│   ├── completion.lua
+│   ├── custom_dashboard.lua
+│   ├── lsp-config.lua
+│   ├── nvim-tree-config.lua
+│   ├── plugins.lua
+│   ├── statusline-config.lua
+│   ├── telescope-config.lua
+│   └── treesitter-config.lua
+└── README.md
+
 ```
 
 ## Preview:
